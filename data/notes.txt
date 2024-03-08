@@ -1,0 +1,29 @@
+AI Assistant for CLI
+============== 
+Approach
+============== 
+- Modular based
+============== 
+External packages
+============== 
+charm sh 
+Bubble Tea - terminal UI apps
+Lip gloss  - color and styling for the terminal
+Glamour    - Detailed outputs shown in the terminal with markdown
+bubbles    - Components for terminal UI(Spinners,progress bar,etc)
+go-openai  - creating a client for open ai
+Viper      - Configuration file management(yaml,hcl)
+go-homedir - to find the home directory
+============== 
+Internal packages
+============== 
+UI
+System
+Run
+History
+Configuration
+AI
+============== 
+chan
+struct
+slice
