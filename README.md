@@ -1,4 +1,4 @@
-# OpenAI cli application with golang
+# OpenAI CLI application with golang
 A powerful CLI based assistant usign Open AI, Built with GO
 ![alt text](image.png)
 
@@ -6,7 +6,7 @@ A powerful CLI based assistant usign Open AI, Built with GO
 
 To install the project, you need to have Go installed on your machine. Once you have Go installed, you can clone the repository and install the dependencies.
 ```
-git clone https://github.com/AkhilSharma90/go-openai-terminal-assistant.git
+git clone  https://github.com/AkhilSharma90/go-openai-terminal-assistant.git
 cd repository
 ```
 
